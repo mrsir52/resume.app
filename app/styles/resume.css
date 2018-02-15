@@ -1,0 +1,50 @@
+html,
+body {
+
+
+
+
+
+}
+
+body {
+
+  background-image: url('../images/background.jpg');
+  text-align: center;
+  align-items: center;
+}
+
+
+.intro {
+  display: flex;
+  justify-content: flex-end;
+  background-color: silver;
+  flex-wrap: nowrap;
+
+}
+
+.myintro {
+  align-items: center;
+
+.container {
+  width: 1140px;
+  margin: 20px auto 0 auto;
+  background-color: silver;
+}
+
+.biopic {
+  padding-left: 35px;
+
+}
+}
+.portfolio {
+
+  background: white;
+  hieght: 30%;
+}
+
+
+.contactme {
+
+
+}
